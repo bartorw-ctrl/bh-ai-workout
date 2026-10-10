@@ -13,7 +13,7 @@ Personal iOS workout tracker. **`SPEC.md` is the source of truth** — read it b
 
 ## Verify every change
 1. `cd Core && swift test`
-2. `xcodegen generate && xcodebuild -scheme BHAIWorkout -destination 'platform=iOS Simulator,name=iPhone 16' build`
+2. `xcodegen generate && xcodebuild -scheme BHAIWorkout -destination 'platform=iOS Simulator,name=iPhone 17' build`
 Fix all errors and warnings before reporting done.
 
 ## Owner
